@@ -1,0 +1,11 @@
+airport_code,airport_name,city,country,timezone
+JFK,John F Kennedy Intl,New York,USA,EST
+LAX,Los Angeles Intl,Los Angeles,USA,PST
+LHR,Heathrow,London,UK,GMT
+CDG,Charles de Gaulle,Paris,France,CET
+DXB,Dubai Intl,Dubai,UAE,GST
+SIN,Changi,Singapore,Singapore,SGT
+HND,Haneda,Tokyo,Japan,JST
+SYD,Sydney,Sydney,Australia,AEST
+DEL,IGI,Delhi,India,IST
+JNB,OR Tambo,Johannesburg,South Africa,SAST
